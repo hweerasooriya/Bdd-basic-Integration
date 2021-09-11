@@ -4,3 +4,5 @@ Configuration BDD file which connet with the gherkin file syntax format "Give, W
 Runner class bind with the cucumber file
 further please refer my blog
 "https://blog.mazarin.lk/cucumber/"
+
+This is my first commit to GIT
